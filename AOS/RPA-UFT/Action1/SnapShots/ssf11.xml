@@ -1,0 +1,41 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Advantage Shopping&quot;).Page(&quot;Advantage Shopping&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf11.html</FileName>
+				<URL>http://advantageonlineshopping.com/#/</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>http://advantageonlineshopping.com/#</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Advantage Shopping&quot;).Page(&quot;Advantage Shopping&quot;).Link(&quot;SpeakersCategoryTxt&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>233</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>text</PropName>
+						<PropVal>SPEAKERS</PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>Link</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>SPAN</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//SPAN[@id=&quot;speakersTxt&quot;]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>
