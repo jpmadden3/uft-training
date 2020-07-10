@@ -1,0 +1,45 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Browser&quot;).Page(&quot;Advantage Shopping&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf7.html</FileName>
+				<URL>http://advantageonlineshopping.com/#/product/24</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>http://advantageonlineshopping.com/#/product/24</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Browser&quot;).Page(&quot;Advantage Shopping&quot;).WebButton(&quot;save to cart&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>291</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>type</PropName>
+						<PropVal>submit</PropVal>
+					</Property>
+					<Property>
+						<PropName>name</PropName>
+						<PropVal>ADD TO CART</PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>WebButton</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>BUTTON</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[@id=&quot;productProperties&quot;]/DIV[4]/BUTTON[@role=&quot;button&quot;][1]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

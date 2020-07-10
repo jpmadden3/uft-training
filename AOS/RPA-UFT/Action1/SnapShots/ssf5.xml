@@ -1,0 +1,41 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Browser&quot;).Page(&quot;Advantage Shopping&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf5.html</FileName>
+				<URL>http://advantageonlineshopping.com/#/category/Speakers/4</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>http://advantageonlineshopping.com/#/category/Speakers/4</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Browser&quot;).Page(&quot;Advantage Shopping&quot;).WebElement(&quot;HP Roar Mini Wireless&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>436</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>WebElement</PropVal>
+					</Property>
+					<Property>
+						<PropName>innertext</PropName>
+						<PropVal>HP Roar Mini Wireless Speaker</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>A</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[3]/SECTION[1]/ARTICLE[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/UL[1]/LI[3]/P[1]/A[1]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

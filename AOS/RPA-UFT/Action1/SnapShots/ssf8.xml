@@ -1,0 +1,45 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Browser&quot;).Page(&quot;Advantage Shopping&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf8.html</FileName>
+				<URL>http://advantageonlineshopping.com/#/product/24</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>http://advantageonlineshopping.com/#/product/24</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Browser&quot;).Page(&quot;Advantage Shopping&quot;).WebElement(&quot;WebElement 2&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>166</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>WebElement</PropVal>
+					</Property>
+					<Property>
+						<PropName>innertext</PropName>
+						<PropVal></PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>DIV</PropVal>
+					</Property>
+					<Property>
+						<PropName>class</PropName>
+						<PropVal>removeProduct iconCss iconX</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//TR[@id=&quot;product&quot;]/TD[3]/DIV[1]/DIV[1]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>
